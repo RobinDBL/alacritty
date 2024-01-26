@@ -169,6 +169,16 @@ key = "End"
 mode = "~Alt"
 mods = "Shift"
 
+[[keyboard.bindings]]
+action = "ToggleViMode"
+key = "j"
+mods = "Alt"
+
+[[keyboard.bindings]]
+action = "SearchBackward"
+key = "s"
+mods = "Alt"
+
 [scrolling]
 history = 5000
 
