@@ -171,7 +171,7 @@ mods = "Shift"
 
 [[keyboard.bindings]]
 action = "ToggleViMode"
-key = "j"
+key = "v"
 mods = "Alt"
 
 [[keyboard.bindings]]
@@ -194,3 +194,6 @@ instance = "Alacritty"
 [window.padding]
 x = 6
 y = 6
+
+[shell]
+program = "tmux"
